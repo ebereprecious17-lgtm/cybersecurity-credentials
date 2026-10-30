@@ -11,7 +11,7 @@
 * **Digital Forensics**
 * **Threat Intelligence**
 
-<img src="./cyber certificate smartstudy limited.jpg" alt="SmartStudy Cybersecurity Certificate" width="600"/>
+<img src="./cyber certificate smartstudy limited.jpeg" alt="SmartStudy Cybersecurity Certificate" width="600"/>
 ---
 
 ### 📜 APISec University - APISEC|CON OCT 2026 Certificate of Attendance
